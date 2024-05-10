@@ -1,6 +1,6 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
+  "metaTitle": "This is BUGLEESIR",
+  "metaDescription": "Is just a description",
   "name": "BUGLEESIR",
   "theme": "glitch",
   "avatarImage": "https://cdn.glitch.global/fba13565-084f-429b-b69c-56ed605e3ed2/Konachan.com%20-%20356544%20aqua_eyes%20ass%20cherry_blossoms%20eiyuu_densetsu%20elbow_gloves%20flowers%20gloves%20gray_hair%20kuro_no_kiseki%20long_hair%20moon%20night%20sword%20weapon%20willfin.jpg?v=1715323008466",
@@ -12,24 +12,24 @@
       "altText": "Glitch blue generative art"
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
+      "url": "http://207.46.143.24:8080/#/typography",
+      "text": "To fight with the stupid Rasa bot => This way !!",
       "img": ""
     },
     {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
+      "url": "https://github.com/BugLeesir/rasa-project-for-windows.git",
+      "text": "To see the robot source code !",
       "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "https://glitch.com/@BugLeesir",
     "arena": "",
     "bandcamp": "",
     "cohost": "",
     "dev": "https://dev.to/glitch",
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "https://github.com/BugLeesir",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
