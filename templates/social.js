@@ -32,7 +32,7 @@ function renderEmail() {
 
 const socials = [
   { name: "glitch", altText: "Glitch" },
-  { name: "arena", altText: "Arena" },
+  // { name: "arena", altText: "Arena" },
   { name: "bandcamp", altText: "Bandcamp" },
   { name: "cohost", altText: "Cohost" },
   { name: "devTo", altText: "DevTo" },
@@ -40,12 +40,12 @@ const socials = [
   { name: "github", altText: "GitHub" },
   { name: "gitlab", altText: "GitLab" },
   { name: "hasnode", altText: "Hasnode" },
-  { name: "instagram", altText: "Instagram" },
+  // { name: "instagram", altText: "Instagram" },
   { name: "keybase", altText: "Keybase" },
   { name: "kofi", altText: "Ko-fi" },
   { name: "letterboxd", altText: "Letterboxd" },
-  { name: "linkedin", altText: "LinkedIn" },
-  { name: "mastodon", altText: "Mastodon", rel: "me" },
+  // { name: "linkedin", altText: "LinkedIn" },
+  // { name: "mastodon", altText: "Mastodon", rel: "me" },
   { name: "medium", altText: "Medium" },
   { name: "patreon", altText: "Patreon" },
   { name: "pinboard", altText: "Pinboard" },
@@ -58,9 +58,9 @@ const socials = [
   { name: "substack", altText: "Substack" },
   { name: "tiktok", altText: "TikTok" },
   { name: "twitch", altText: "Twitch" },
-  { name: "twitter", altText: "Twitter" },
+  // { name: "twitter", altText: "Twitter" },
   { name: "tumblr", altText: "Tumblr" },
-  { name: "youtube", altText: "YouTube" }
+  // { name: "youtube", altText: "YouTube" }
 ];
 
 export const renderSocialIcons = html.node`

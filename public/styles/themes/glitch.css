@@ -30,7 +30,7 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 }
 body {
   background: fixed linear-gradient(0deg, #D7F5EF, #9480FF);
-  background-image:url(https://cdn.glitch.global/fba13565-084f-429b-b69c-56ed605e3ed2/97626636_p0.jpg?v=1715322613831);
+  background-image:url(https://cdn.glitch.me/fba13565-084f-429b-b69c-56ed605e3ed2/background-picture.png?v=1715569200471);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
